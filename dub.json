@@ -5,5 +5,9 @@
 	"copyright": "Copyright © 2025, halu",
 	"description": "game engine for copium ide",
 	"license": "GPL-3.0-or-later",
-	"name": "copium"
+	"name": "copium",
+	"dependencies": {
+        "gtk-d:gtkd": "~>3.11.0" 
+    },
+    "targetPath": "bin"
 }
