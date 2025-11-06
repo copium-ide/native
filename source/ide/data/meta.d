@@ -1,4 +1,4 @@
-module copium.data.meta;
+module ide.data.meta;
 
 public struct METADATA
 {

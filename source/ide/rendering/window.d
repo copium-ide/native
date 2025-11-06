@@ -1,4 +1,4 @@
-module copium.rendering.window;
+module ide.rendering.window;
 
 import gtk.MainWindow;
 import gtk.Label;

@@ -1,6 +1,6 @@
-module copium.data.project.block;
+module ide.data.project.block;
 
-import copium.data.project.uuid;
+import ide.data.project.uuid;
 import std.variant;
 
 struct Block

@@ -1,6 +1,6 @@
-module copium.data.project.uuid;
+module ide.data.project.uuid;
 
-import copium.data.meta;
+import ide.data.meta;
 import std.uuid;
 import std.format;
 

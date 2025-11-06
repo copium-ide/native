@@ -3,11 +3,13 @@
 		"halu"
 	],
 	"copyright": "Copyright © 2025, halu",
-	"description": "game engine for copium ide",
+	"description": "gui for copium ide",
 	"license": "GPL-3.0-or-later",
 	"name": "copium",
 	"dependencies": {
-        "gtk-d:gtkd": "~>3.11.0" 
+        "gtk-d:gtkd": "~>3.11.0",
+		"runtime": {"repository": "git+https://github.com/copium-ide/runtime.git", "version": "a07b852"}
     },
-    "targetPath": "bin"
+    "targetPath": "bin",
+	"targetType": "executable"
 }
